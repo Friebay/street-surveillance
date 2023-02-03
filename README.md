@@ -53,5 +53,7 @@ DEMONSTRATION
 
 ![alt text](https://github.com/Friebay/STREET-SURVEILLANCE/blob/main/Demonstration/fbap4Zm.png?raw=true)
 
+![alt text](https://github.com/Friebay/STREET-SURVEILLANCE/blob/main/Demonstration/8mb.video-7oM-RFZteKvn.gif)
+
 
 
