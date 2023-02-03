@@ -50,4 +50,8 @@ ADAPTATION IN EVERYDAY LIFE
 //////////////
 
 DEMONSTRATION
-![alt text](https://github.com/Friebay/[reponame]STREET-SURVEILLANCE/blob/main/Demonstration/fbap4Zm.png?raw=true)
+
+![alt text](https://github.com/Friebay/STREET-SURVEILLANCE/blob/main/Demonstration/fbap4Zm.png?raw=true)
+
+
+
