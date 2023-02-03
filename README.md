@@ -47,3 +47,7 @@ ADAPTATION IN EVERYDAY LIFE
 • The position of pedestrians could be sent to self-driving cars and they could better assess the traffic situation.
 • An app that shows where you can park your car.
 
+//////////////
+
+DEMONSTRATION
+![alt text](https://github.com/Friebay/[reponame]STREET-SURVEILLANCE/blob/main/Demonstration/fbap4Zm.png?raw=true)
