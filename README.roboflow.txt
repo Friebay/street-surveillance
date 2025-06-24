@@ -2,7 +2,7 @@
 Vehicle and human recognition - v31 2025-06-24 10:00am
 ==============================
 
-This dataset was exported via roboflow.com on June 24, 2025 at 7:00 AM GMT
+This dataset was exported via roboflow.com on June 24, 2025 at 7:20 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -18,7 +18,7 @@ visit https://github.com/roboflow/notebooks
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
 The dataset includes 514 images.
-Car-people are annotated in YOLOv12 format.
+Car-people are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
 

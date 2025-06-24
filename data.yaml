@@ -1,13 +1,12 @@
+names:
+- Car
+- Human
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: vehicle-and-human-recognition
+  url: https://universe.roboflow.com/steamlt/vehicle-and-human-recognition/dataset/31
+  version: 31
+test: ../test/images
 train: ../train/images
 val: ../valid/images
-test: ../test/images
-
-nc: 2
-names: ['Car', 'Human']
-
-roboflow:
-  workspace: steamlt
-  project: vehicle-and-human-recognition
-  version: 31
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/steamlt/vehicle-and-human-recognition/dataset/31
