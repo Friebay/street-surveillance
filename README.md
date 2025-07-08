@@ -1,14 +1,6 @@
 # STREET-SURVEILLANCE
 Street surveillance using artificial intelligence and YOLOv12 for object detection.
 
-## Table of Contents
-- [Goals](#goals)
-- [Data Collection](#data-collection)
-- [Annotation of Photos](#annotation-of-photos)
-- [Limitations](#limitations)
-- [Practical Applications](#practical-applications)
-- [Demonstration](#demonstration)
-
 ## Goals
 - Determine if there are people at the pedestrian crossing.
 - Detect cars approaching the pedestrian crossing.

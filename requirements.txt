@@ -1,0 +1,10 @@
+ultralytics
+roboflow
+supervision
+torch
+torchvision
+python-dotenv
+jupyter
+opencv-python
+matplotlib
+numpy
